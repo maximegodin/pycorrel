@@ -18,7 +18,7 @@ test_requirements = ['pytest>=3', ]
 
 setup(
     author="Maxime Godin",
-    author_email='maximeg.godin@polytechnique.org',
+    author_email='maxime.godin@polytechnique.org',
     python_requires='>=3.5',
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',

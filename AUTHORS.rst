@@ -5,7 +5,7 @@ Credits
 Development Lead
 ----------------
 
-* Maxime Godin <maximeg.godin@polytechnique.org>
+* Maxime Godin <maxime.godin@polytechnique.org>
 
 Contributors
 ------------
